@@ -1,4 +1,4 @@
-const LandingPage = () =>{
+const LandingPage = () => {
     return (
         <div>
             Landing page (Unprotected)
