@@ -1,9 +1,13 @@
-import { Button } from "@/components/ui/button";
+
 
 
 export default function DashboardPage() {
   return (
    
-    <p>DashBoard Page (Protected)</p>
+    <div>
+      <p>DashBoard Page (Protected)</p>
+      
+    </div>
+    
   );
 }
